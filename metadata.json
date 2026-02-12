@@ -1,0 +1,7 @@
+{
+  "name": "Green Credits Eco-Platform",
+  "description": "A comprehensive sustainability platform where users log eco-friendly actions, earn credits, connect with NGOs, and participate in a community feed. Features AI-powered impact analysis using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
